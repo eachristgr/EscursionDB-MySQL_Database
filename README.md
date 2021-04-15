@@ -17,10 +17,10 @@ EscursionDB stores information about mountains, rivers, lodgings, recreation are
 Below are the entity diagram and the correlation diagram that reflect the base format:
 
 ***Entity Diagram***
-<img src="?raw=true" height="400"/> 
+<img src="https://github.com/eachristgr/EscursionDB-MySQL_Database/blob/main/imges/EntitiesDiagram.jpg?raw=true" height="400"/> 
 
 ***Correlation Diagram***
-<img src="?raw=true" height="400"/> 
+<img src="https://github.com/eachristgr/EscursionDB-MySQL_Database/blob/main/imges/RelationalDiagram.jpg?raw=true" height="400"/> 
 
 Finaly, it is noted that the database depicted above is accompanied by views that can be seen when executing the **dbdump.sql** file. Some examples of data are in the csv files inside the **csvData** folder and some quaries are in the **Quarries**. 
 
